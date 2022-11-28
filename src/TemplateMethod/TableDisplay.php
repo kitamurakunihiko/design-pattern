@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Kitamurakunihiko\DesignPattern\TemplateMethod;
 
 class TableDisplay extends AbstractDisplay
