@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Kitamurakunihiko\DesignPattern\TemplateMethod;
 
-require 'vendor/autoload.php';
+require_once '../../vendor/autoload.php';
 
 $date = [
     'Design Pattern',
